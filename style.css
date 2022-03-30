@@ -3,8 +3,66 @@ header {
 	height: 90vh;
 }
 
-h1 {
-	margin-top: 20px;
+body {
+	font-family: "Inter", sans-serif;
+	color: #172b4d;
 }
 
+.header-navlink {
+	color: #172b4d;
+}
 
+.intro {
+	font-weight: 800;
+	font-size: 48px;
+	line-height: 60px;
+}
+
+.trade {
+	color: #36b37e;
+}
+
+.advert {
+	max-width: 700px;
+}
+
+.social {
+	list-style: none;
+}
+
+.social i {
+	margin: 0 10px;
+	color: #505f79;
+}
+
+.union {
+	width: 40px;
+	height: 40px;
+}
+
+.r {
+	margin-bottom: 32px;
+}
+
+.c {
+	margin-right: 24px;
+}
+
+.story {
+	background: #ebf0ee;
+}
+
+.top {
+	height: 252px;
+}
+
+.content {
+	border-radius: 8px;
+	overflow: hidden;
+	background: #fff;
+	padding-bottom: 24px;
+}
+
+.bg > * {
+	background: #ebf0ee;
+}
