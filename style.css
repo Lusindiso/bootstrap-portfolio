@@ -62,3 +62,8 @@ body {
 span {
 	display: block;
 }
+
+.bg-1 > * {
+	background: #fff;
+	color: #36b37e;
+}
