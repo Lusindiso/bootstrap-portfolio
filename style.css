@@ -67,3 +67,9 @@ span {
 	background: #fff;
 	color: #36b37e;
 }
+
+.footer-heading {
+	font-size: 29px;
+	font-weight: 700;
+	line-height: 52px;
+}
