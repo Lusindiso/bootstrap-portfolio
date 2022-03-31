@@ -40,14 +40,6 @@ body {
 	height: 40px;
 }
 
-.r {
-	margin-bottom: 32px;
-}
-
-.c {
-	margin-right: 24px;
-}
-
 .story {
 	background: #ebf0ee;
 }
@@ -65,4 +57,8 @@ body {
 
 .bg > * {
 	background: #ebf0ee;
+}
+
+span {
+	display: block;
 }
