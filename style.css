@@ -1,0 +1,83 @@
+header {
+	background: url("./img/header-bg.svg");
+	height: 90vh;
+}
+
+body {
+	font-family: "Inter", sans-serif;
+	color: #172b4d;
+}
+
+.header-navlink {
+	color: #172b4d;
+}
+
+.intro {
+	font-weight: 800;
+	font-size: 48px;
+	line-height: 60px;
+}
+
+.trade {
+	color: #36b37e;
+}
+
+.advert {
+	max-width: 700px;
+}
+
+.social {
+	list-style: none;
+}
+
+.social i {
+	margin: 0 10px;
+	color: #505f79;
+}
+
+.union {
+	width: 40px;
+	height: 40px;
+}
+
+.story {
+	background: #ebf0ee;
+}
+
+.top {
+	height: 252px;
+}
+
+.content {
+	border-radius: 8px;
+	overflow: hidden;
+	background: #fff;
+	padding-bottom: 24px;
+}
+
+.bg > * {
+	background: #ebf0ee;
+}
+
+span {
+	display: block;
+}
+
+.bg-1 > * {
+	background: #fff;
+	color: #36b37e;
+}
+
+.about-container {
+	background: url('./img/aboutleft.svg') left 30% no-repeat,url('./img/aboutright.svg') right top no-repeat;
+}
+
+.footer-container {
+	background: url('./img/left.svg') left 90% no-repeat,url('./img/middle.svg') 20% 80% no-repeat , url('./img/right.svg') right 50% no-repeat;
+}
+
+.footer-heading {
+	font-size: 29px;
+	font-weight: 700;
+	line-height: 52px;
+}
